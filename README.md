@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-CQrqQjeGbM](https://www.frontendmentor.io/solutions/blog-preview-card-CQrqQjeGbM)
+- Live Site URL: [https://fm-blog-preview-card-six.vercel.app/](https://fm-blog-preview-card-six.vercel.app/)
 
 ### Built with
 
