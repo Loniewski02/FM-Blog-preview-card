@@ -10,7 +10,7 @@ const App: React.FC = () => {
         className="md:h-[200px]w-full  rounded-[10px] object-cover"
       />
       <div className="flex flex-col gap-3">
-        <span className="w-fit rounded-[4px] bg-Yellow px-3 py-1 text-xs font-extrabold leading-normal text-Black md:h-[29px]">
+        <span className="w-fit rounded-[4px] bg-Yellow px-3 py-1 text-xs font-extrabold leading-normal text-Black md:text-sm">
           Learning
         </span>
         <p className="h-[21px] text-xs font-medium leading-normal text-Black md:text-sm">
