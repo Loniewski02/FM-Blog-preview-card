@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: "Figtree", sans-serif;
+    @apply flex min-h-[100dvh] items-center justify-center bg-Yellow p-4;
+  }
+}
